@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jquery": "3.5.0"
+  },
+  "name": "imotokatsuya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/naru-shadow/introduction-Js.git",
+  "author": "naru-shadow <98979978+naru-shadow@users.noreply.github.com>",
+  "license": "MIT"
+}
